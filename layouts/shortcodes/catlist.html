@@ -1,24 +1,31 @@
-{{ $category := .Get "category" }}
+{{ $taxonomyName := "topics" }}
+{{ $termName := .Get "category" }}
 {{ $catLink := .Get "catlink" | default true }}
 {{ $count := .Get "count" | default 5 }}
 
-{{ $p := site.AllPages }}
-{{ $p = where $p "Params.category" "intersect" (slice $category) }}
+{{ $term := .Site.GetPage (printf "/%s/%s" $taxonomyName $termName) }}
+{{ if not $term }}
+  {{/* Fallback for multilingual sites where term is language-specific */}}
+  {{ $term = .Site.GetPage (printf "/%s/%s/%s" .Page.Lang $taxonomyName $termName) }}
+{{ end }}
 
-{{ $categoryTitle := title $category }}
-{{ $categoryTitle = strings.Replace $categoryTitle "-" " " }}
+{{ if $term }}
+  {{ $categoryTitle := $term.Title }}
+  {{ $pages := $term.Pages }}
 
-<h3>
-  {{ if $catLink }}
-    <a href="/category/{{ urlquery $category }}"> {{$categoryTitle }} </a>
-  {{ else }}
-    {{ $categoryTitle }}
-  {{ end }}
-
-</h3>
-<ul>
-  {{ range first $count $p}}
-      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a>
-      </li>
-  {{ end }}
-</ul>
+  <h3>
+    {{ if $catLink }}
+      <a href="{{ $term.RelPermalink }}"> {{ $categoryTitle }} </a>
+    {{ else }}
+      {{ $categoryTitle }}
+    {{ end }}
+  </h3>
+  <ul>
+    {{ range first $count $pages }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </li>
+    {{ end }}
+  </ul>
+{{ else }}
+  <p>Could not find topic page for '{{ $termName }}'</p>
+{{ end }}

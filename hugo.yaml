@@ -1,5 +1,6 @@
 baseURL: https://itdranik.com
 defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
 title: IT Dranik
 theme: PaperMod
 taxonomies:
@@ -49,16 +50,16 @@ languages:
     menu:
       main:
         - name: About
-          url: /about/
+          url: /en/about/
           weight: 1
         - name: Coding Interview
-          url: /topics/coding-interview-en/
+          url: /en/topics/coding-interview-en/
           weight: 10
         - name: Stories
-          url: /topics/stories-en/
+          url: /en/topics/stories-en/
           weight: 11
         - name: Development
-          url: /topics/development-en/
+          url: /en/topics/development-en/
           weight: 12
   be:
     languageName: "Беларуская"
@@ -70,16 +71,16 @@ languages:
     menu:
       main:
         - name: Пра мяне
-          url: /about/
+          url: /be/about/
           weight: 1
         - name: Тэхнічнае сумоўе
-          url: /topics/coding-interview-be/
+          url: /be/topics/coding-interview-be/
           weight: 10
         - name: Апавяданні
-          url: /topics/stories-be/
+          url: /be/topics/stories-be/
           weight: 11
         - name: Распрацоўка
-          url: /topics/development-be/
+          url: /be/topics/development-be/
           weight: 12
   ru:
     languageName: "Русский"
@@ -91,14 +92,14 @@ languages:
     menu:
       main:
         - name: Обо мне
-          url: /about/
+          url: /ru/about/
           weight: 1
         - name: Техническое собеседование
-          url: /topics/coding-interview-ru/
+          url: /ru/topics/coding-interview-ru/
           weight: 10
         - name: Рассказы
-          url: /topics/stories-ru/
+          url: /ru/topics/stories-ru/
           weight: 11
         - name: Разработка
-          url: /topics/development-ru/
+          url: /ru/topics/development-ru/
           weight: 12
