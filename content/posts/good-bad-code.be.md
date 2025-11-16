@@ -5,7 +5,7 @@ _thumbnail_id: "1981"
 _wpas_done_all: "1"
 author: yauheni.shybeka
 categories:
-  - апавяданні
+  - stories-be
 cover:
   alt: programming-1857236_640
   image: /wp-content/uploads/2021/01/programming-1857236_640.jpg

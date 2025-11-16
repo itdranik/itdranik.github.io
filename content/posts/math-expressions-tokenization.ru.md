@@ -7,7 +7,7 @@ _wp_old_slug: '%d1%80%d0%b0%d0%b7%d0%b1%d0%be%d1%80-%d0%bc%d0%b0%d1%82%d0%b5%d0%
 _wpas_done_all: "1"
 author: yauheni.shybeka
 categories:
-  - техническое-собеседование
+  - coding-interview-ru
 cover:
   alt: math-expressions-feature-image
   image: /wp-content/uploads/2020/02/math-expressions-feature-image-1.jpg

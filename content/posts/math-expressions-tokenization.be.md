@@ -6,7 +6,7 @@ _wp_old_date: "2020-03-07"
 _wpas_done_all: "1"
 author: yauheni.shybeka
 categories:
-  - тэхнічнае-сумоўе
+  - coding-interview-be
 cover:
   alt: math-expressions-feature-image
   image: /wp-content/uploads/2020/02/math-expressions-feature-image-1.jpg

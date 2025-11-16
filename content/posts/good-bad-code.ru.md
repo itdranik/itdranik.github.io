@@ -6,7 +6,7 @@ _wp_old_date: "2021-01-24"
 _wpas_done_all: "1"
 author: yauheni.shybeka
 categories:
-  - рассказы
+  - stories-ru
 cover:
   alt: programming-1857236_640
   image: /wp-content/uploads/2021/01/programming-1857236_640.jpg

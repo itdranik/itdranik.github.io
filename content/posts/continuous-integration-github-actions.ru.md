@@ -5,7 +5,7 @@ _thumbnail_id: "1732"
 _wpas_done_all: "1"
 author: yauheni.shybeka
 categories:
-  - разработка
+  - development-ru
 cover:
   alt: continuous-integration-feature-image
   image: /wp-content/uploads/2020/03/continuous-integration-feature-image.png

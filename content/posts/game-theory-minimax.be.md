@@ -5,7 +5,7 @@ _thumbnail_id: "2330"
 _wpas_done_all: "1"
 author: yauheni.shybeka
 categories:
-  - тэхнічнае-сумоўе
+  - coding-interview-be
 cover:
   alt: game-theory-feature-image
   image: /wp-content/uploads/2021/03/game-theory-feature-image.png

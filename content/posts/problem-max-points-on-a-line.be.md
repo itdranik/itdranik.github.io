@@ -5,7 +5,7 @@ _thumbnail_id: "1734"
 _wpas_done_all: "1"
 author: yauheni.shybeka
 categories:
-  - тэхнічнае-сумоўе
+  - coding-interview-be
 cover:
   alt: max-points-on-a-line-feature-image
   image: /wp-content/uploads/2020/07/max-points-on-a-line-feature-image.jpg

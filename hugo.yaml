@@ -73,13 +73,13 @@ languages:
           url: /about/
           weight: 1
         - name: Тэхнічнае сумоўе
-          url: /categories/тэхнічнае-сумоўе/
+          url: /categories/coding-interview-be/
           weight: 10
-        - name: Stories
-          url: /categories/апавяданні/
+        - name: Апавяданні
+          url: /categories/stories-be/
           weight: 11
         - name: Распрацоўка
-          url: /categories/распрацоўка/
+          url: /categories/development-be/
           weight: 12
   ru:
     languageName: "Русский"
@@ -94,11 +94,11 @@ languages:
           url: /about/
           weight: 1
         - name: Техническое собеседование
-          url: /categories/техническое-собеседование/
+          url: /categories/coding-interview-ru/
           weight: 10
         - name: Рассказы
-          url: /categories/рассказы/
+          url: /categories/stories-ru/
           weight: 11
         - name: Разработка
-          url: /categories/разработка/
+          url: /categories/development-ru/
           weight: 12

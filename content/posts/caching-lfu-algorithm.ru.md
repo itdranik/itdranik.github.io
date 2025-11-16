@@ -5,7 +5,7 @@ _thumbnail_id: "1733"
 _wpas_done_all: "1"
 author: yauheni.shybeka
 categories:
-  - техническое-собеседование
+  - coding-interview-ru
 cover:
   alt: caching-feature-image
   image: /wp-content/uploads/2020/03/caching-feature-image.png
