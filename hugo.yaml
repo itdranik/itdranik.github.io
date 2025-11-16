@@ -51,6 +51,15 @@ languages:
         - name: About
           url: /about/
           weight: 1
+        - name: Coding Interview
+          url: /categories/coding-interview/
+          weight: 10
+        - name: Stories
+          url: /categories/stories/
+          weight: 11
+        - name: Development
+          url: /categories/development/
+          weight: 12
   be:
     languageName: "Беларуская"
     languageCode: be
@@ -63,6 +72,15 @@ languages:
         - name: Пра мяне
           url: /about/
           weight: 1
+        - name: Тэхнічнае сумоўе
+          url: /categories/тэхнічнае-сумоўе/
+          weight: 10
+        - name: Stories
+          url: /categories/апавяданні/
+          weight: 11
+        - name: Распрацоўка
+          url: /categories/распрацоўка/
+          weight: 12
   ru:
     languageName: "Русский"
     languageCode: ru
@@ -75,3 +93,12 @@ languages:
         - name: Обо мне
           url: /about/
           weight: 1
+        - name: Техническое собеседование
+          url: /categories/техническое-собеседование/
+          weight: 10
+        - name: Рассказы
+          url: /categories/рассказы/
+          weight: 11
+        - name: Разработка
+          url: /categories/разработка/
+          weight: 12
