@@ -51,7 +51,7 @@ The difficulty of parsing math expressions lies in the fact that mathematical op
 
 **Postfix notation** is a form of writing mathematical expressions where operators are written after the operands to which they are applied. For this notation, there is no priority for operations, and therefore there are no brackets. For example, the expression above corresponds to one of the following expressions in the postfix notation: `2 3 - 4 * 1 +` or `4 2 3 - * 1 +`.
 
-The full implementation in C# can be found on [GitHub](https://github.com/itdranik/coding-interview-en/) (the coding-interview-en project), but for now, let's analyze the algorithm for evaluating an expression written in the postfix notation. Let's create a class that receives a sequential set of tokens (operators and operands) as the input, and as the output, it returns a result in the form of a calculated operand.
+The full implementation in C# can be found on [GitHub](https://github.com/itdranik/coding-interview/) (the coding-interview-en project), but for now, let's analyze the algorithm for evaluating an expression written in the postfix notation. Let's create a class that receives a sequential set of tokens (operators and operands) as the input, and as the output, it returns a result in the form of a calculated operand.
 
 If a token is an operand then we add it to the operands stack.
 

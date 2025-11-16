@@ -30,7 +30,7 @@ Vasily more and more understood that he did not have enough time for the develop
 
 **Problem Statement:** Given a set of points on a plane, find the line that passes through the maximum number of points.
 
-The complete implementation in C#, as usual, can be found on the [GitHub](https://github.com/itdranik/coding-interview-en/) of the coding-interview-en project.
+The complete implementation in C#, as usual, can be found on the [GitHub](https://github.com/itdranik/coding-interview/) of the coding-interview-en project.
 
 Since there is an infinite number of lines on the plane, it can take forever to find an answer, while your interviewer is a very busy person, he is participating today in a team meeting on choosing the name and color of a button. Therefore, we will try to accelerate and optimize the approach.
 

@@ -35,7 +35,7 @@ In the console, we will see `"Element 'x' was not found"`. Thus, the `x` element
 
 **LFU (least frequently used)** is the strategy of discarding an element that has been least used. This element is the element that has been accessed by a key (methods of adding and receiving values) the least number of times. If there are several such elements, then the element that has not been accessed the longest is discarded.
 
-The complete implementation of LFU cache, as usual, can be found on the [GitHub](https://github.com/itdranik/coding-interview-en/) coding-interview-en project.
+The complete implementation of LFU cache, as usual, can be found on the [GitHub](https://github.com/itdranik/coding-interview/) coding-interview-en project.
 
 And we're returning back to the implementation. Let's start with the simplest option. We will implement a wrapper around an associative array without an eviction strategy:
 

@@ -59,4 +59,4 @@ The last thing we need to add is a processor for operators. As in our problem st
   - Otherwise, add the character to the numbers storage.
 - If the storage contains characters then convert the characters to a number and add the number to the resulting sequence.
 
-As always, the full implementation can be found on the [GitHub](https://github.com/itdranik/coding-interview-en/) of the coding-interview-en project, while with the post we are finishing the topic of parsing mathematical expressions. I hope that everything has been informative and interesting. See you!
+As always, the full implementation can be found on the [GitHub](https://github.com/itdranik/coding-interview/) of the coding-interview-en project, while with the post we are finishing the topic of parsing mathematical expressions. I hope that everything has been informative and interesting. See you!
