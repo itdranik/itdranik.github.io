@@ -4,7 +4,7 @@ _last_editor_used_jetpack: block-editor
 _thumbnail_id: "1734"
 _wpas_done_all: "1"
 author: yauheni.shybeka
-categories:
+topics:
   - coding-interview-be
 cover:
   alt: max-points-on-a-line-feature-image
@@ -30,7 +30,7 @@ url: /be/problem-max-points-on-a-line-be/
 
 **Пастаноўка задачы**. Хай ёсць мноства кропак на плоскасці. Неабходна знайсці прамую, якая праходзіць праз найбольшую колькасць кропак.
 
-Поўную рэалізацыю на C#, як і заўсёды, можна паглядзець на [GitHub](https://github.com/itdranik/coding-interview/) праекта coding-interview.
+Поўную рэалізацыю на C#, як і заўсёды, можна паглядзець на [GitHub](https://github.com/itdranik/coding-interview-en/) праекта coding-interview-en.
 
 Паколькі прамых на плоскасці бясконцае мноства, то і пошук адказу можа заняць вечнасць, а твой інтэрв'юер вельмі заняты чалавек, яму яшчэ ўдзельнічаць у камандным мітынгу аб выбары імя і колеру кнопкі. Таму паспрабуем паскорыцца і аптымізаваць падыход.
 
@@ -134,4 +134,4 @@ public (Line<double> line, int PointsCount) FindLineFast(
 }
 ```
 
-На гэтым мне трэба развітвацца, а табе, дарагі чытач, прапаную азнаёміцца з [іншымі разборамі задач](/be/topics/coding-interview-be/), якія могуць трапляцца на тэхнічных сумоўях. Да хуткіх сустрэч!
+На гэтым мне трэба развітвацца, а табе, дарагі чытач, прапаную азнаёміцца з [іншымі разборамі задач](/be/topics/coding-interview-en-be/), якія могуць трапляцца на тэхнічных сумоўях. Да хуткіх сустрэч!

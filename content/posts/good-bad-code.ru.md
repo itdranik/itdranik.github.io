@@ -5,7 +5,7 @@ _thumbnail_id: "1981"
 _wp_old_date: "2021-01-24"
 _wpas_done_all: "1"
 author: yauheni.shybeka
-categories:
+topics:
   - stories-ru
 cover:
   alt: programming-1857236_640

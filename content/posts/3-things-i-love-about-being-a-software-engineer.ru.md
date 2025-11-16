@@ -4,7 +4,7 @@ _last_editor_used_jetpack: block-editor
 _thumbnail_id: "1755"
 _wpas_done_all: "1"
 author: yauheni.shybeka
-categories:
+topics:
   - stories-ru
 cover:
   alt: 5-things-i-love-about-being-a-software-engineer-feature-image

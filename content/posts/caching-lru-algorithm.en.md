@@ -4,8 +4,8 @@ _last_editor_used_jetpack: block-editor
 _thumbnail_id: "1733"
 _wpas_done_all: "1"
 author: yauheni.shybeka
-categories:
-  - coding-interview
+topics:
+  - coding-interview-en
 cover:
   alt: caching-feature-image
   image: /wp-content/uploads/2020/03/caching-feature-image.png
@@ -42,7 +42,7 @@ At the same time, since we can infinitely add elements to the cache only in theo
 
 **LRU (least recently used)** is the strategy of discarding an element that has not been used the longest. It is the element that hasn't been accessed by a key the longest (methods of adding and receiving a value).
 
-The complete implementation of LRU cache in C#, as usual, can be found on the [GitHub](https://github.com/itdranik/coding-interview/) of the coding-interview project.
+The complete implementation of LRU cache in C#, as usual, can be found on the [GitHub](https://github.com/itdranik/coding-interview-en/) of the coding-interview-en project.
 
 Let's start with the implementation of the simplest case when we don't have a discarding strategy. In other words, add a wrapper around the standard implementation of the associative array, which usually comes with the standard library of [your favorite programming language](https://wiki.theory.org/index.php/YourLanguageSucks):
 

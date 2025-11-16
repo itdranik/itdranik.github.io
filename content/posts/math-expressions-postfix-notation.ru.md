@@ -1,13 +1,13 @@
 ---
 _edit_last: "2"
 _last_editor_used_jetpack: block-editor
-_oembed_2ce488e0d7c8b22a5e28c427a972ef45: "<div class=\"github-embed github-embed-repository github-logo-mark\">    <p>        <a href=\"https://github.com/itdranik/coding-interview\" target=\"_blank\">\t\t\t<strong>\t\t\t\tSamples for coding interview problems\t\t\t</strong>\t\t</a>\t\t<br>        <a href=\"https://github.com/itdranik/coding-interview\" target=\"_blank\">https://github.com/itdranik/coding-interview</a><br>        <a href=\"https://github.com/itdranik/coding-interview/network\" target=\"_blank\">0</a> forks.<br>        <a href=\"https://github.com/itdranik/coding-interview/stargazers\" target=\"_blank\">0</a> stars.<br>        <a href=\"https://github.com/itdranik/coding-interview/issues\" target=\"_blank\">0</a> open issues.<br>        Recent commits:        <ul class=\"github_commits\">                            <li class=\"github_commit\">                    <a href=\"https://github.com/itdranik/coding-interview/commit/84835549faa653cd1879e08ecb0f44959db01bdb\" target=\"_blank\">Initial commit</a>, GitHub                </li>                    </ul>    </p></div>"
+_oembed_2ce488e0d7c8b22a5e28c427a972ef45: "<div class=\"github-embed github-embed-repository github-logo-mark\">    <p>        <a href=\"https://github.com/itdranik/coding-interview-en\" target=\"_blank\">\t\t\t<strong>\t\t\t\tSamples for coding interview problems\t\t\t</strong>\t\t</a>\t\t<br>        <a href=\"https://github.com/itdranik/coding-interview-en\" target=\"_blank\">https://github.com/itdranik/coding-interview-en</a><br>        <a href=\"https://github.com/itdranik/coding-interview-en/network\" target=\"_blank\">0</a> forks.<br>        <a href=\"https://github.com/itdranik/coding-interview-en/stargazers\" target=\"_blank\">0</a> stars.<br>        <a href=\"https://github.com/itdranik/coding-interview-en/issues\" target=\"_blank\">0</a> open issues.<br>        Recent commits:        <ul class=\"github_commits\">                            <li class=\"github_commit\">                    <a href=\"https://github.com/itdranik/coding-interview-en/commit/84835549faa653cd1879e08ecb0f44959db01bdb\" target=\"_blank\">Initial commit</a>, GitHub                </li>                    </ul>    </p></div>"
 _oembed_time_2ce488e0d7c8b22a5e28c427a972ef45: "1581792996"
 _thumbnail_id: "1731"
 _wp_old_slug: '%d1%80%d0%b0%d0%b7%d0%b1%d0%be%d1%80-%d0%bc%d0%b0%d1%82%d0%b5%d0%bc%d0%b0%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d1%85-%d0%b2%d1%8b%d1%80%d0%b0%d0%b6%d0%b5%d0%bd%d0%b8%d0%b9-%d1%87%d0%b0%d1%81'
 _wpas_done_all: "1"
 author: yauheni.shybeka
-categories:
+topics:
   - coding-interview-ru
 cover:
   alt: math-expressions-feature-image
@@ -53,7 +53,7 @@ url: /ru/math-expressions-postfix-notation-ru/
 
 **Постфиксная нотация** \- форма записи математических выражений, в которой операторы записаны после операндов, на которых они применяются. В данной нотации отсутствует приоритет операций, а следовательно отсутствуют скобки. Например, выражению выше будет соответствовать следующее выражение в постфиксной нотации: `2 3 - 4 * 1 +` или `4 2 3 - * 1 +`.
 
-Полную реализацию на C# можно найти на [GitHub](https://github.com/itdranik/coding-interview/) проекта coding-interview, а пока разберём алгоритм вычисления выражения, записанного в постфиксной нотации. Создадим класс, который на вход будет принимать последовательное множество токенов (операторов и операндов), а на выходе будет возвращать результат в ввиде вычисленного операнда.
+Полную реализацию на C# можно найти на [GitHub](https://github.com/itdranik/coding-interview-en/) проекта coding-interview-en, а пока разберём алгоритм вычисления выражения, записанного в постфиксной нотации. Создадим класс, который на вход будет принимать последовательное множество токенов (операторов и операндов), а на выходе будет возвращать результат в ввиде вычисленного операнда.
 
 Если токен является операндом, то добавляем операнд в стек операндов.
 

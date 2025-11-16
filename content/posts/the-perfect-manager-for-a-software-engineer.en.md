@@ -4,8 +4,8 @@ _last_editor_used_jetpack: block-editor
 _thumbnail_id: "2178"
 _wpas_done_all: "1"
 author: yauheni.shybeka
-categories:
-  - stories
+topics:
+  - stories-en
 cover:
   alt: the-perfect-manager-for-a-software-engineer-feature-image
   image: /wp-content/uploads/2021/02/the-perfect-manager-for-a-software-engineer-feature-image.jpg

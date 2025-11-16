@@ -5,7 +5,7 @@ _thumbnail_id: "1755"
 _wp_old_date: "2021-01-06"
 _wpas_done_all: "1"
 author: yauheni.shybeka
-categories:
+topics:
   - stories-be
 cover:
   alt: 5-things-i-love-about-being-a-software-engineer-feature-image

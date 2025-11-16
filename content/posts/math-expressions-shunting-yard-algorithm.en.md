@@ -6,8 +6,8 @@ _wp_old_date: "2020-03-01"
 _wp_old_slug: parsing-mathematical-expressions-shunting-yard-algorithm
 _wpas_done_all: "1"
 author: yauheni.shybeka
-categories:
-  - coding-interview
+topics:
+  - coding-interview-en
 cover:
   alt: math-expressions-feature-image
   image: /wp-content/uploads/2020/02/math-expressions-feature-image-1.jpg
@@ -72,4 +72,4 @@ The closing bracket token is essentially a signal that notifies that a calculati
   - _If the token is a closing bracket, then we take the operators from the stack and save them in the resulting sequence until we meet an opening bracket. If an opening bracket is not found, then we signal about the error in the expression._
 - Take the saved operators from the stack and move them to the final sequence. _If there is an opening bracket among the operators, then we signal about the error in the expression_.
 
-The full implementation can be found on [GitHub](https://github.com/itdranik/coding-interview/) (the coding-interview project). This will finish the review of the shunting-yard algorithm, and without wasting time, we're moving on to the tokenization algorithm described in the [next post](/en/math-expressions-tokenization-en/).
+The full implementation can be found on [GitHub](https://github.com/itdranik/coding-interview-en/) (the coding-interview-en project). This will finish the review of the shunting-yard algorithm, and without wasting time, we're moving on to the tokenization algorithm described in the [next post](/en/math-expressions-tokenization-en/).

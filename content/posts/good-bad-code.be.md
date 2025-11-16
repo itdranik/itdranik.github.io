@@ -4,7 +4,7 @@ _last_editor_used_jetpack: block-editor
 _thumbnail_id: "1981"
 _wpas_done_all: "1"
 author: yauheni.shybeka
-categories:
+topics:
   - stories-be
 cover:
   alt: programming-1857236_640

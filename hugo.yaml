@@ -3,7 +3,7 @@ defaultContentLanguage: en
 title: IT Dranik
 theme: PaperMod
 taxonomies:
-  category: categories
+  category: topics
   tag: tags
 params:
   description: Software Engineering Recipes
@@ -52,13 +52,13 @@ languages:
           url: /about/
           weight: 1
         - name: Coding Interview
-          url: /categories/coding-interview/
+          url: /topics/coding-interview-en/
           weight: 10
         - name: Stories
-          url: /categories/stories/
+          url: /topics/stories-en/
           weight: 11
         - name: Development
-          url: /categories/development/
+          url: /topics/development-en/
           weight: 12
   be:
     languageName: "Беларуская"
@@ -73,13 +73,13 @@ languages:
           url: /about/
           weight: 1
         - name: Тэхнічнае сумоўе
-          url: /categories/coding-interview-be/
+          url: /topics/coding-interview-be/
           weight: 10
         - name: Апавяданні
-          url: /categories/stories-be/
+          url: /topics/stories-be/
           weight: 11
         - name: Распрацоўка
-          url: /categories/development-be/
+          url: /topics/development-be/
           weight: 12
   ru:
     languageName: "Русский"
@@ -94,11 +94,11 @@ languages:
           url: /about/
           weight: 1
         - name: Техническое собеседование
-          url: /categories/coding-interview-ru/
+          url: /topics/coding-interview-ru/
           weight: 10
         - name: Рассказы
-          url: /categories/stories-ru/
+          url: /topics/stories-ru/
           weight: 11
         - name: Разработка
-          url: /categories/development-ru/
+          url: /topics/development-ru/
           weight: 12

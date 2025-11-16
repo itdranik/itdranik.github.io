@@ -4,7 +4,7 @@ _last_editor_used_jetpack: block-editor
 _thumbnail_id: "1733"
 _wpas_done_all: "1"
 author: yauheni.shybeka
-categories:
+topics:
   - coding-interview-be
 cover:
   alt: caching-feature-image
@@ -42,7 +42,7 @@ url: /be/caching-lru-algorithm-be/
 
 **LRU (least recently used)** \- стратэгія выцяснення элемента, які не выкарыстоўваўся даўжэй за ўсё. Пад дадзеным элементам разумеецца элемент, доступ да якога па ключы (метады дадання і атрымання значэння) не ажыццяўляўся даўжэй за ўсё.
 
-Поўную рэалізацыю LRU кэша на C#, як заўсёды, можна паглядзець на [GitHub](https://github.com/itdranik/coding-interview/) праекта coding-interview.
+Поўную рэалізацыю LRU кэша на C#, як заўсёды, можна паглядзець на [GitHub](https://github.com/itdranik/coding-interview-en/) праекта coding-interview-en.
 
 Пачнём з рэалізацыі самага простага варыянту без стратэгіі выцяснення. Іншымі словамі дададзім абгортку вакол стандартнай рэалізацыі асацыятыўнага масіва, якая звычайна прысутнічае ў стандартнай бібліятэцы [тваей любімай мовы праграмавання](https://wiki.theory.org/index.php/YourLanguageSucks):
 

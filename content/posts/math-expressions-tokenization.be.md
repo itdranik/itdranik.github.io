@@ -5,7 +5,7 @@ _thumbnail_id: "1731"
 _wp_old_date: "2020-03-07"
 _wpas_done_all: "1"
 author: yauheni.shybeka
-categories:
+topics:
   - coding-interview-be
 cover:
   alt: math-expressions-feature-image
@@ -59,4 +59,4 @@ url: /be/math-expressions-tokenization-be/
   - Інакш захоўваем сімвал для фарміравання ліку ў асобным сховішчы;
 - Калі ў сховішчы засталіся сімвалы, то канвертуем сімвалы ў лік і дадаем у спіс выніковых токенаў.
 
-Як заўсёды поўную рэалізацыю можна паглядзець на [GitHub](https://github.com/itdranik/coding-interview/) праекта coding-interview, а гэтым пастом будзем завяршаць тэму разбору матэматычных выразаў. Спадзяюся, што ўсё было пазнавальна і цікава. Да сустрэчы!
+Як заўсёды поўную рэалізацыю можна паглядзець на [GitHub](https://github.com/itdranik/coding-interview-en/) праекта coding-interview-en, а гэтым пастом будзем завяршаць тэму разбору матэматычных выразаў. Спадзяюся, што ўсё было пазнавальна і цікава. Да сустрэчы!

@@ -4,8 +4,8 @@ _last_editor_used_jetpack: block-editor
 _thumbnail_id: "1732"
 _wpas_done_all: "1"
 author: yauheni.shybeka
-categories:
-  - development
+topics:
+  - development-en
 cover:
   alt: continuous-integration-feature-image
   image: /wp-content/uploads/2020/03/continuous-integration-feature-image.png
@@ -26,9 +26,9 @@ url: /en/continuous-integration-github-actions-en/
 ---
 Hello dear reader!
 
-All our lives have things that are embarrassing to remember about, not something to tell. Nevertheless, I have to say: until recently, [the coding-interview repository](https://github.com/itdranik/coding-interview/) hasn't used continuous integration capabilities. "What a disgrace!" - they will shout. "But who needs it at all?!" - others will object.
+All our lives have things that are embarrassing to remember about, not something to tell. Nevertheless, I have to say: until recently, [the coding-interview-en repository](https://github.com/itdranik/coding-interview-en/) hasn't used continuous integration capabilities. "What a disgrace!" - they will shout. "But who needs it at all?!" - others will object.
 
-For my part, I propose to work out together why developers are increasingly using modern tools for continuous integration, instead of starting a fire rubbing two sticks together, and to add continuous integration into the coding-interview repository using [GitHub Actions](https://github.com/features/actions).
+For my part, I propose to work out together why developers are increasingly using modern tools for continuous integration, instead of starting a fire rubbing two sticks together, and to add continuous integration into the coding-interview-en repository using [GitHub Actions](https://github.com/features/actions).
 
 So what continuous integration is?
 

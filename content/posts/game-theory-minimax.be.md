@@ -4,7 +4,7 @@ _last_editor_used_jetpack: block-editor
 _thumbnail_id: "2330"
 _wpas_done_all: "1"
 author: yauheni.shybeka
-categories:
+topics:
   - coding-interview-be
 cover:
   alt: game-theory-feature-image
@@ -48,7 +48,7 @@ url: /be/game-theory-minimax-be/
 
 ## Агульны выпадак і рэалізацыя
 
-З поўнай рэалізацыяй алгарытму на C# можна азнаёміцца на GitHub праекта [coding-interview](https://github.com/itdranik/coding-interview). Ніжэй спынімся на самых цікавых момантах. Хай бягучы стан апісваецца наступным наборам параметраў і метадаў:
+З поўнай рэалізацыяй алгарытму на C# можна азнаёміцца на GitHub праекта [coding-interview-en](https://github.com/itdranik/coding-interview-en). Ніжэй спынімся на самых цікавых момантах. Хай бягучы стан апісваецца наступным наборам параметраў і метадаў:
 
 - Спісам магчымых хадоў для бягучага гульца `GetPossibleMoves`;
 - Параметрам, які сігналізуе, ці з'яўляецца бягучы стан завяршальным (перамога аднаго з гульцоў, альбо нічыя) `IsTerminal`;
