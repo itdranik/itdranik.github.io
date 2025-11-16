@@ -1,0 +1,10 @@
+# Hugo
+#
+# Generated public folder
+/public/
+# Generated resources folder
+/resources/
+# Hugo's cache directory
+hugo_cache/
+# Other Hugo cache files
+.hugo_build.lock
