@@ -48,7 +48,7 @@ If the second player plays **optimally**, the first player will lose (get **-1**
 
 ## General case and implementation
 
-The full implementation of the algorithm in C# can be found on the GitHub of the [coding-interview-en](https://github.com/itdranik/coding-interview) project. Below we will focus on the most interesting points. Let the current state be described by the following set of parameters and methods:
+The full implementation of the algorithm in C# can be found on the GitHub of the [coding-interview](https://github.com/itdranik/coding-interview) project. Below we will focus on the most interesting points. Let the current state be described by the following set of parameters and methods:
 
 - A set of possible moves for the player, making a move, `GetPossibleMoves`;
 - A flag that indicates whether the current state is final (a win for one of the players, or a draw) `IsTerminal`;
