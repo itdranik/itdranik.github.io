@@ -1,27 +1,15 @@
 ---
-_edit_last: "2"
-_last_editor_used_jetpack: block-editor
-_thumbnail_id: "2330"
-_wpas_done_all: "1"
+title: 'Game Theory: Minimax in C#'
 author: yauheni.shybeka
 categories:
   - coding-interview
-cover:
-  alt: game-theory-feature-image
 image: /wp-content/uploads/2021/03/game-theory-feature-image.png
 date: "2024-03-27T23:55:34+00:00"
-guid: https://itdranik.com/?p=2470
 language:
   - English
-parent_post_id: null
-post_id: "2470"
-post_translations:
-  - pll_5e4809c57cc17
 tags:
   - c#
   - game-theory
-title: 'Game Theory: Minimax in C#'
-url: /en/game-theory-minimax-en/
 
 ---
 A cool March evening plunged the city into its usual darkness. The street noise almost disappeared. And only light spring rain was beating rhythmically on the window of the senior developer Vasily. The sounds of rain were comforting, especially after a nervous day at work. Vasily pulled the warm blanket tighter around him. He was determined to go to bed early that day, and everything seemed to help him in this endeavor.

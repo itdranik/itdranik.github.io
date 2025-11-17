@@ -1,15 +1,6 @@
 ---
-_edit_last: "2"
-_wp_page_template: default
 author: yauheni.shybeka
 date: "2020-02-23T19:31:11+00:00"
-guid: https://itdranik.com/?page_id=248
-language:
-  - English
-parent_post_id: null
-post_id: "248"
-post_translations:
-  - pll_5e4809c57cc17
 title: About IT-Dranik
 menu:
     main: 

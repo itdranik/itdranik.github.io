@@ -1,29 +1,17 @@
 ---
-_edit_last: "2"
-_last_editor_used_jetpack: block-editor
-_thumbnail_id: "1731"
+title: Разбор матэматычных выразаў на C#. Такенізацыя
 _wp_old_date: "2020-03-07"
-_wpas_done_all: "1"
 author: yauheni.shybeka
 categories:
   - coding-interview
-cover:
-  alt: math-expressions-feature-image
 image: /wp-content/uploads/2020/02/math-expressions-feature-image-1.jpg
 date: "2020-02-29T20:00:34+00:00"
-guid: https://itdranik.com/?p=731
 language:
   - English
-parent_post_id: null
-post_id: "731"
-post_translations:
-  - pll_5e4809c57cc17
 tags:
   - c#
   - матэматычныя-выразы
   - парсер
-title: Разбор матэматычных выразаў на C#. Такенізацыя
-url: /be/math-expressions-tokenization-be/
 
 ---
 Навука пастаянна развіваецца, тэхналогіі імкліва ўрываюцца ў наша жыццё, з'яўляюцца новыя інструменты і магчымасці, нязменна толькі адно \- пануры выраз твару твайго інтэрв'юера. І калі з чытаннем эмоцый інтэрв'юера мы разабраліся, то з чытаннем выразаў у нас усё яшчэ ёсць праблемы. Таму ў дадзеным пасце разбяром самую простую тэму ў кантэксце дадзенай задачы \- разбіццё зыходнага радка на асобныя токены.

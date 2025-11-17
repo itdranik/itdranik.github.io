@@ -1,26 +1,12 @@
 ---
-_edit_last: "2"
-_last_editor_used_jetpack: block-editor
-_thumbnail_id: "1755"
-_wpas_done_all: "1"
+title: 3 Things I Love about being a Software Engineer
 author: yauheni.shybeka
 categories:
   - stories
-cover:
-  alt: 5-things-i-love-about-being-a-software-engineer-feature-image
 image: /wp-content/uploads/2020/12/5-things-i-love-about-being-a-software-engineer-feature-image.jpg
 date: "2021-01-10T11:30:00+00:00"
-guid: https://itdranik.com/?p=1869
-language:
-  - English
-parent_post_id: null
-post_id: "1869"
-post_translations:
-  - pll_5e4809c57cc17
 tags:
   - work
-title: 3 Things I Love about being a Software Engineer
-url: /en/3-things-i-love-about-being-a-software-engineer-en/
 
 ---
 The number of developers increases every year by several million, new services and applications appear. The next founder of a "Make the World Better" startup shares how he will make the world better. The IT world is a complete idyll.

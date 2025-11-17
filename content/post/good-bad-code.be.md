@@ -1,26 +1,14 @@
 ---
-_edit_last: "2"
-_last_editor_used_jetpack: block-editor
-_thumbnail_id: "1981"
-_wpas_done_all: "1"
+title: Добры дрэнны код
 author: yauheni.shybeka
 categories:
   - stories
-cover:
-  alt: programming-1857236_640
 image: /wp-content/uploads/2021/01/programming-1857236_640.jpg
 date: "2021-02-11T15:05:00+00:00"
-guid: https://itdranik.com/?p=2114
 language:
   - English
-parent_post_id: null
-post_id: "2114"
-post_translations:
-  - pll_5e4809c57cc17
 tags:
   - праца
-title: Добры дрэнны код
-url: /be/good-bad-code-be/
 
 ---
 З пакоя пачуўся дзікі крык: "Я не веру сваім вачам! За што?" Выпадковы прахожы мог пачуць усе стадыі прыняцця: ад адмаўлення да пакоры. Нядзіўная была і прычына: старэйшаму распрацоўніку Васілю дасталася спадчына! Але гэта была не тая спадчына ад багатай цёткі, якая зрабіла б Васіля багацей матэрыяльна. Гэта была праца дзясяткаў іншых распрацоўнікаў. І мяркуючы па крыкам, якія даносіліся з пакоя і якія вырашана было тут не цытаваць, спадчына не зрабіла Васіля багацей і духоўна.

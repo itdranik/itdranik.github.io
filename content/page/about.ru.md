@@ -1,15 +1,6 @@
 ---
-_edit_last: "2"
-_wp_page_template: default
 author: yauheni.shybeka
 date: "2020-01-23T18:03:40+00:00"
-guid: http:/?page_id=2
-language:
-  - English
-parent_post_id: null
-post_id: "2"
-post_translations:
-  - pll_5e4809c57cc17
 title: Об IT-дранике
 menu:
     main: 

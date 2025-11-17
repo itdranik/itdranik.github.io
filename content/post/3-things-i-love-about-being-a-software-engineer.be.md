@@ -1,29 +1,15 @@
 ---
-_edit_last: "2"
-_last_editor_used_jetpack: block-editor
-_thumbnail_id: "1755"
-_wp_old_date: "2021-01-06"
-_wpas_done_all: "1"
+title: 3 прычыны, чаму мне падабаецца быць праграмістам
 author: yauheni.shybeka
 categories:
   - stories
-cover:
-  alt: 5-things-i-love-about-being-a-software-engineer-feature-image
 image: /wp-content/uploads/2020/12/5-things-i-love-about-being-a-software-engineer-feature-image.jpg
 date: "2021-01-05T21:05:00+00:00"
-guid: https://itdranik.com/?p=1837
-language:
-  - English
-parent_post_id: null
-post_id: "1837"
-post_translations:
-  - pll_5e4809c57cc17
 tags:
   - праца
-title: 3 прычыны, чаму мне падабаецца быць праграмістам
-url: /be/3-things-i-love-about-being-a-software-engineer-be/
 
 ---
+
 Колькасць распрацоўшчыкаў кожны год павялічваецца на некалькі мільёнаў, з'яўляюцца новыя сэрвісы і прыкладанні. Чарговы заснавальнік стартапа «Зробім свет лепшым» распавядае, як ён зробіць свет лепшым. У свеце IT поўная ідылія.
 
 І толькі старэйшы распрацоўшчык Васіль — дзесьці ў цёмнай кватэры, у 3 гадзіны ночы, пад святлом настольнай лямпы — спрабуе разабрацца, чаму з карыстальнiка спісалі ў два разы большую суму за паслугу. Пра што той абавязкова паведаміў у тэхнічную падтрымку, лаканічна і дакладна апісаўшы праблему і ўвесь аддзел распрацоўкі. Так што ж прымушае Васіля працягваць працаваць нават начамі і пры гэтым атрымліваць задавальненне ад працы?

@@ -1,27 +1,15 @@
 ---
-_edit_last: "2"
-_last_editor_used_jetpack: block-editor
-_thumbnail_id: "2330"
-_wpas_done_all: "1"
+title: 'Теория игр: Minimax на C#'
 author: yauheni.shybeka
 categories:
   - coding-interview
-cover:
-  alt: game-theory-feature-image
 image: /wp-content/uploads/2021/03/game-theory-feature-image.png
 date: "2021-04-01T17:01:05+00:00"
-guid: https://itdranik.com/?p=2249
 language:
   - English
-parent_post_id: null
-post_id: "2249"
-post_translations:
-  - pll_5e4809c57cc17
 tags:
   - c#
   - теория-игр
-title: 'Теория игр: Minimax на C#'
-url: /ru/game-theory-minimax-ru/
 
 ---
 Прохладный мартовский вечер погрузил город в привычную темноту. Уличный шум практически сошёл на нет. И только лёгкий весенний дождь ритмично стучал в окно старшего разработчика Василия. Звуки дождя приятно успокаивали, особенно после нервного рабочего дня. Василий посильнее укутался в тёплое одеяло. Сегодня он твёрдо решил лечь спать пораньше, и казалось, всё способствовало ему в этом начинании.

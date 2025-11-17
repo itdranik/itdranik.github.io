@@ -1,27 +1,15 @@
 ---
-_edit_last: "2"
-_last_editor_used_jetpack: block-editor
-_thumbnail_id: "1732"
-_wpas_done_all: "1"
+title: Бесперапынная інтэграцыя — гэта проста. GitHub Actions
 author: yauheni.shybeka
 categories:
   - development
-cover:
-  alt: continuous-integration-feature-image
 image: /wp-content/uploads/2020/03/continuous-integration-feature-image.png
 date: "2020-03-15T13:15:00+00:00"
-guid: https://itdranik.com/?p=926
 language:
   - English
-parent_post_id: null
-post_id: "926"
-post_translations:
-  - pll_5e4809c57cc17
 tags:
   - github-actions
   - бесперапынная-інтеграцыя
-title: Бесперапынная інтэграцыя — гэта проста. GitHub Actions
-url: /be/continuous-integration-github-actions-be/
 
 ---
 Прывітанне, дарагі чытач!

@@ -1,26 +1,14 @@
 ---
-_edit_last: "2"
-_last_editor_used_jetpack: block-editor
-_thumbnail_id: "2178"
-_wpas_done_all: "1"
+title: Ідэальны менеджэр для распрацоўніка
 author: yauheni.shybeka
 categories:
   - stories
-cover:
-  alt: the-perfect-manager-for-a-software-engineer-feature-image
 image: /wp-content/uploads/2021/02/the-perfect-manager-for-a-software-engineer-feature-image.jpg
 date: "2021-02-27T04:00:00+00:00"
-guid: https://itdranik.com/?p=2210
 language:
   - English
-parent_post_id: null
-post_id: "2210"
-post_translations:
-  - pll_5e4809c57cc17
 tags:
   - праца
-title: Ідэальны менеджэр для распрацоўніка
-url: /be/the-perfect-manager-for-a-software-engineer-be/
 
 ---
 У календары старэйшага распрацоўніка Васіля ўсплыло апавяшчэнне "Аналіз прадукцыйнасці (performance review)". Гэта была штогадовая пераатэстацыя ў кампаніі ТАА _"Менеджэры ведаюць лепш"_. Але апошні год для Васіля выдаўся асаблівым. Кампанія канкурэнт ТАА _"Толькі менеджэры і ведаюць"_ выпусціла новы прадукт па распазнанні нелаяльных супрацоўнікаў. Хоць рашэнне было сыраватым і больш нагадвала генератар выпадковых адказаў, але яго таннасць і прастата выкарыстання адразу спадабаліся карыстальнікам.

@@ -1,29 +1,17 @@
 ---
-_edit_last: "2"
-_last_editor_used_jetpack: block-editor
-_thumbnail_id: "1731"
+title: Parsing Math Expressions in C#. Postfix Notation
 _wp_old_date: "2020-02-29"
-_wpas_done_all: "1"
 author: yauheni.shybeka
 categories:
   - coding-interview
-cover:
-  alt: math-expressions-feature-image
 image: /wp-content/uploads/2020/02/math-expressions-feature-image-1.jpg
 date: "2020-02-15T08:00:52+00:00"
-guid: https://itdranik.com/?p=98
 language:
   - English
-parent_post_id: null
-post_id: "98"
-post_translations:
-  - pll_5e4809c57cc17
 tags:
   - c#
   - mathematical-expressions
   - parser
-title: Parsing Math Expressions in C#. Postfix Notation
-url: /en/math-expressions-postfix-notation-en/
 
 ---
 Well, hello, dear reader!

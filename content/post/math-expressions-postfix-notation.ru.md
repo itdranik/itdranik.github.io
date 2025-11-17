@@ -1,31 +1,19 @@
 ---
-_edit_last: "2"
-_last_editor_used_jetpack: block-editor
+title: Разбор математических выражений на C#. Постфиксная нотация
 _oembed_2ce488e0d7c8b22a5e28c427a972ef45: "<div class=\"github-embed github-embed-repository github-logo-mark\">    <p>        <a href=\"https://github.com/itdranik/coding-interview\" target=\"_blank\">\t\t\t<strong>\t\t\t\tSamples for coding interview problems\t\t\t</strong>\t\t</a>\t\t<br>        <a href=\"https://github.com/itdranik/coding-interview\" target=\"_blank\">https://github.com/itdranik/coding-interview</a><br>        <a href=\"https://github.com/itdranik/coding-interview/network\" target=\"_blank\">0</a> forks.<br>        <a href=\"https://github.com/itdranik/coding-interview/stargazers\" target=\"_blank\">0</a> stars.<br>        <a href=\"https://github.com/itdranik/coding-interview/issues\" target=\"_blank\">0</a> open issues.<br>        Recent commits:        <ul class=\"github_commits\">                            <li class=\"github_commit\">                    <a href=\"https://github.com/itdranik/coding-interview/commit/84835549faa653cd1879e08ecb0f44959db01bdb\" target=\"_blank\">Initial commit</a>, GitHub                </li>                    </ul>    </p></div>"
 _oembed_time_2ce488e0d7c8b22a5e28c427a972ef45: "1581792996"
-_thumbnail_id: "1731"
 _wp_old_slug: '%d1%80%d0%b0%d0%b7%d0%b1%d0%be%d1%80-%d0%bc%d0%b0%d1%82%d0%b5%d0%bc%d0%b0%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d1%85-%d0%b2%d1%8b%d1%80%d0%b0%d0%b6%d0%b5%d0%bd%d0%b8%d0%b9-%d1%87%d0%b0%d1%81'
-_wpas_done_all: "1"
 author: yauheni.shybeka
 categories:
   - coding-interview
-cover:
-  alt: math-expressions-feature-image
 image: /wp-content/uploads/2020/02/math-expressions-feature-image-1.jpg
 date: "2020-02-15T08:00:00+00:00"
-guid: https://itdranik.com/?p=22
 language:
   - English
-parent_post_id: null
-post_id: "22"
-post_translations:
-  - pll_5e4809c57cc17
 tags:
   - c#
   - математические-выражения
   - парсер
-title: Разбор математических выражений на C#. Постфиксная нотация
-url: /ru/math-expressions-postfix-notation-ru/
 
 ---
 Ну здравствуй, уважаемый читатель!

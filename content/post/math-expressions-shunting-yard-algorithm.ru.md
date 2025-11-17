@@ -1,30 +1,18 @@
 ---
-_edit_last: "2"
-_last_editor_used_jetpack: block-editor
-_thumbnail_id: "1731"
+title: Разбор математических выражений на C#. Алгоритм сортировочной станции
 _wp_old_date: "2020-02-24"
 _wp_old_slug: '%d1%80%d0%b0%d0%b7%d0%b1%d0%be%d1%80-%d0%bc%d0%b0%d1%82%d0%b5%d0%bc%d0%b0%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d1%85-%d0%b2%d1%8b%d1%80%d0%b0%d0%b6%d0%b5%d0%bd%d0%b8%d0%b9-%d1%87%d0%b0%d1%81-2'
-_wpas_done_all: "1"
 author: yauheni.shybeka
 categories:
   - coding-interview
-cover:
-  alt: math-expressions-feature-image
 image: /wp-content/uploads/2020/02/math-expressions-feature-image-1.jpg
 date: "2020-02-22T08:00:00+00:00"
-guid: https://itdranik.com/?p=241
 language:
   - English
-parent_post_id: null
-post_id: "241"
-post_translations:
-  - pll_5e4809c57cc17
 tags:
   - c#
   - математические-выражения
   - парсер
-title: Разбор математических выражений на C#. Алгоритм сортировочной станции
-url: /ru/math-expressions-shunting-yard-algorithm-ru/
 
 ---
 Зима \- самая холодная пора года, но даже она не настолько холодна, как реакция интервьювера на твою реализацию калькулятора для постфиксной нотации. Тем не менее у нас нет времени на эмоции, поэтому приступим к разбору алгоритма сортировочной станции, упомянутого в [предыдущем посте](/ru/math-expressions-postfix-notation-ru/).

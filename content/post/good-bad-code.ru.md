@@ -1,27 +1,15 @@
 ---
-_edit_last: "2"
-_last_editor_used_jetpack: block-editor
-_thumbnail_id: "1981"
+title: Хороший плохой код
 _wp_old_date: "2021-01-24"
-_wpas_done_all: "1"
 author: yauheni.shybeka
 categories:
   - stories
-cover:
-  alt: programming-1857236_640
 image: /wp-content/uploads/2021/01/programming-1857236_640.jpg
 date: "2021-02-13T14:28:04+00:00"
-guid: https://itdranik.com/?p=1825
 language:
   - English
-parent_post_id: null
-post_id: "1825"
-post_translations:
-  - pll_5e4809c57cc17
 tags:
   - работа
-title: Хороший плохой код
-url: /ru/good-bad-code-ru/
 
 ---
 Из комнаты раздался дикий крик: "Я не верю своим глазам! За что?" Случайный прохожий мог услышать все стадии принятия: от отрицания до смирения. Неудивительна была и причина: старшему разработчику Василию досталось наследство! Но не то наследство от богатой тётушки, которое сделало бы Василия богаче материально. Это был труд десятков других разработчиков. И судя по доносящимся крикам, которые решено было здесь не цитировать, наследство не сделало Василия богаче и духовно.

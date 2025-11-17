@@ -1,26 +1,12 @@
 ---
-_edit_last: "2"
-_last_editor_used_jetpack: block-editor
-_thumbnail_id: "1755"
-_wpas_done_all: "1"
+title: 3 причины, почему мне нравится быть программистом
 author: yauheni.shybeka
 categories:
   - stories
-cover:
-  alt: 5-things-i-love-about-being-a-software-engineer-feature-image
 image: /wp-content/uploads/2020/12/5-things-i-love-about-being-a-software-engineer-feature-image.jpg
 date: "2021-01-04T19:00:00+00:00"
-guid: https://itdranik.com/?p=1752
-language:
-  - English
-parent_post_id: null
-post_id: "1752"
-post_translations:
-  - pll_5e4809c57cc17
 tags:
   - работа
-title: 3 причины, почему мне нравится быть программистом
-url: /ru/3-things-i-love-about-being-a-software-engineer-ru/
 
 ---
 Количество разработчиков каждый год увеличивается на несколько миллионов, появляются новые сервисы и приложения. Очередной основатель стартапа "Сделаем мир лучше" storiesвает, как он сделает мир лучше. В мире IT полная идиллия.

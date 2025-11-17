@@ -1,26 +1,14 @@
 ---
-_edit_last: "2"
-_last_editor_used_jetpack: block-editor
-_thumbnail_id: "1981"
-_wpas_done_all: "1"
+title: Good Bad Code
 author: yauheni.shybeka
 categories:
   - stories
-cover:
-  alt: programming-1857236_640
 image: /wp-content/uploads/2021/01/programming-1857236_640.jpg
 date: "2021-02-11T11:50:00+00:00"
-guid: https://itdranik.com/?p=2088
 language:
   - English
-parent_post_id: null
-post_id: "2088"
-post_translations:
-  - pll_5e4809c57cc17
 tags:
   - work
-title: Good Bad Code
-url: /en/good-bad-code-en/
 
 ---
 A wild cry rang out of the room: "I don't believe my eyes! For what?" A casual passerby could hear all the stages of grief: from denial to acceptance. No wonder there was a reason — the senior developer Vasily got an inheritance! But not the inheritance from a rich aunt that would make Vasily richer financially. This was the work of dozens of other developers. And judging by the screams that were heard, which it was decided not to quote here, the inheritance did not make also Vasily richer spiritually.

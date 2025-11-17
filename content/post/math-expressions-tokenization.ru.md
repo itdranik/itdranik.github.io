@@ -1,30 +1,18 @@
 ---
-_edit_last: "2"
-_last_editor_used_jetpack: block-editor
-_thumbnail_id: "1731"
+title: Разбор математических выражений на C#. Токенизация
 _wp_old_date: "2020-02-27"
 _wp_old_slug: '%d1%80%d0%b0%d0%b7%d0%b1%d0%be%d1%80-%d0%bc%d0%b0%d1%82%d0%b5%d0%bc%d0%b0%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d1%85-%d0%b2%d1%8b%d1%80%d0%b0%d0%b6%d0%b5%d0%bd%d0%b8%d0%b9-%d1%87%d0%b0%d1%81-3'
-_wpas_done_all: "1"
 author: yauheni.shybeka
 categories:
   - coding-interview
-cover:
-  alt: math-expressions-feature-image
 image: /wp-content/uploads/2020/02/math-expressions-feature-image-1.jpg
 date: "2024-05-06T00:14:34+00:00"
-guid: https://itdranik.com/?p=358
 language:
   - English
-parent_post_id: null
-post_id: "358"
-post_translations:
-  - pll_5e4809c57cc17
 tags:
   - c#
   - математические-выражения
   - парсер
-title: Разбор математических выражений на C#. Токенизация
-url: /ru/math-expressions-tokenization-ru/
 
 ---
 Наука постоянно развивается, технологии стремительно врываются в нашу жизнь, появляются новые инструменты и возможности, неизменно лишь одно \- угрюмое выражение лица твоего интервьюера. И если с чтением эмоций интервьювера мы разобрались, то с чтением выражения у нас всё ещё есть проблемы. Поэтому в данном посте разберём самую простую тему в контексте данной задачи \- разбиение исходной строки на отдельные токены.

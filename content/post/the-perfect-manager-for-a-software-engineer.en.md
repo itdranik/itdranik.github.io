@@ -1,26 +1,14 @@
 ---
-_edit_last: "2"
-_last_editor_used_jetpack: block-editor
-_thumbnail_id: "2178"
-_wpas_done_all: "1"
+title: The perfect manager for a software engineer
 author: yauheni.shybeka
 categories:
   - stories
-cover:
-  alt: the-perfect-manager-for-a-software-engineer-feature-image
 image: /wp-content/uploads/2021/02/the-perfect-manager-for-a-software-engineer-feature-image.jpg
 date: "2021-02-28T18:45:00+00:00"
-guid: https://itdranik.com/?p=2218
 language:
   - English
-parent_post_id: null
-post_id: "2218"
-post_translations:
-  - pll_5e4809c57cc17
 tags:
   - work
-title: The perfect manager for a software engineer
-url: /en/the-perfect-manager-for-a-software-engineer-en/
 
 ---
 In the calendar of the senior developer Vasily, a notification "Performance review" popped up. It was an annual review in the company _"Managers know Better"_ LLC. But the last year for Vasily turned out to be special. The competitor company _"Only Managers Know"_ LLC had released a new product for recognizing disloyal employees. Although the solution was crude and more like a random response generator, its cheapness and ease of use immediately attracted users.

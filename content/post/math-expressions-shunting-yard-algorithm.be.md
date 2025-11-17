@@ -1,29 +1,17 @@
 ---
-_edit_last: "2"
-_last_editor_used_jetpack: block-editor
-_thumbnail_id: "1731"
+title: Разбор матэматычных выразаў на C#. Алгарытм сартавальнай станцыі
 _wp_old_date: "2020-03-07"
-_wpas_done_all: "1"
 author: yauheni.shybeka
 categories:
   - coding-interview
-cover:
-  alt: math-expressions-feature-image
 image: /wp-content/uploads/2020/02/math-expressions-feature-image-1.jpg
 date: "2020-02-22T08:00:16+00:00"
-guid: https://itdranik.com/?p=693
 language:
   - English
-parent_post_id: null
-post_id: "693"
-post_translations:
-  - pll_5e4809c57cc17
 tags:
   - c#
   - матэматычныя-выразы
   - парсер
-title: Разбор матэматычных выразаў на C#. Алгарытм сартавальнай станцыі
-url: /be/math-expressions-shunting-yard-algorithm-be/
 
 ---
 Зіма \- самая халодная пара года, але нават яна не настолькі халодная, як рэакцыя інтэрв'юера на тваю рэалізацыю калькулятара для постфікснай натацыі. Тым не менш у нас няма часу на эмоцыі, таму прыступім да разбору алгарытму сартавальнай станцыі, згаданага ў [папярэднім пасце](/be/math-expressions-postfix-notation-be/).

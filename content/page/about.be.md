@@ -1,8 +1,6 @@
 ---
 author: yauheni.shybeka
 date: "2020-02-23T19:31:36+00:00"
-guid: https://itdranik.com/?page_id=243
-post_id: "243"
 title: Аб IT-драніке
 menu:
     main: 

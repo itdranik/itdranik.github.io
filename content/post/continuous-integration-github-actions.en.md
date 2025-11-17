@@ -1,27 +1,15 @@
 ---
-_edit_last: "2"
-_last_editor_used_jetpack: block-editor
-_thumbnail_id: "1732"
-_wpas_done_all: "1"
+title: Continuous Integration is Simple. GitHub Actions
 author: yauheni.shybeka
 categories:
   - development
-cover:
-  alt: continuous-integration-feature-image
 image: /wp-content/uploads/2020/03/continuous-integration-feature-image.png
 date: "2020-03-15T13:15:00+00:00"
-guid: https://itdranik.com/?p=924
 language:
   - English
-parent_post_id: null
-post_id: "924"
-post_translations:
-  - pll_5e4809c57cc17
 tags:
   - continuous-integration
   - github-actions
-title: Continuous Integration is Simple. GitHub Actions
-url: /en/continuous-integration-github-actions-en/
 
 ---
 Hello dear reader!

@@ -1,28 +1,16 @@
 ---
-_edit_last: "2"
-_last_editor_used_jetpack: block-editor
-_thumbnail_id: "1733"
-_wpas_done_all: "1"
+title: 'Популярные алгоритмы кэширования: LFU кэш'
 author: yauheni.shybeka
 categories:
   - coding-interview
-cover:
-  alt: caching-feature-image
 image: /wp-content/uploads/2020/03/caching-feature-image.png
 date: "2020-03-28T19:00:00+00:00"
-guid: https://itdranik.com/?p=1109
 language:
   - English
-parent_post_id: null
-post_id: "1109"
-post_translations:
-  - pll_5e4809c57cc17
 tags:
   - c#
   - кэширование
   - структуры-данных
-title: 'Популярные алгоритмы кэширования: LFU кэш'
-url: /ru/caching-lfu-algorithm-ru/
 
 ---
 Привет, дорогой читатель!

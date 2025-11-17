@@ -1,27 +1,15 @@
 ---
-_edit_last: "2"
-_last_editor_used_jetpack: block-editor
-_thumbnail_id: "1734"
-_wpas_done_all: "1"
+title: 'Problem: Max Points on a Line'
 author: yauheni.shybeka
 categories:
   - coding-interview
-cover:
-  alt: max-points-on-a-line-feature-image
 image: /wp-content/uploads/2020/07/max-points-on-a-line-feature-image.jpg
 date: "2020-07-07T05:43:26+00:00"
-guid: https://itdranik.com/?p=1653
 language:
   - English
-parent_post_id: null
-post_id: "1653"
-post_translations:
-  - pll_5e4809c57cc17
 tags:
   - c#
   - geometry
-title: 'Problem: Max Points on a Line'
-url: /en/problem-max-points-on-a-line-en/
 
 ---
 The hot sun lit the bedroom. Bright rays ran through the face of the senior developer Vasily. “Just five more minutes,” a cunning hope slipped into Vasily’s head, and he stretched out in a satisfied smile until he suddenly realized that he had overslept. Another day in a row he woke up with a mobile phone in his hand and a missed alarm. This was really annoying, but Vasily's cunning body did not take his problems seriously and personally made the decision to turn off the alarm before Vasily could even understand what was happening. There was no time to deal with it as the next important meeting was about to begin. For the whole week, the team had not yet decided where it was better to have a very important button. The need for personal presence at the meeting was not fully understood by Vasily, as well as the reason for such a painful choice. But, as a backend developer, he had to confirm constantly, "If the button is ten pixels to the right, this won't break the backend."

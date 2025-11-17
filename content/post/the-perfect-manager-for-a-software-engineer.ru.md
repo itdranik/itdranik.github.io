@@ -1,26 +1,14 @@
 ---
-_edit_last: "2"
-_last_editor_used_jetpack: block-editor
-_thumbnail_id: "2178"
-_wpas_done_all: "1"
+title: Идеальный менеджер для разработчика
 author: yauheni.shybeka
 categories:
   - stories
-cover:
-  alt: the-perfect-manager-for-a-software-engineer-feature-image
 image: /wp-content/uploads/2021/02/the-perfect-manager-for-a-software-engineer-feature-image.jpg
 date: "2021-02-24T13:08:33+00:00"
-guid: https://itdranik.com/?p=1925
 language:
   - English
-parent_post_id: null
-post_id: "1925"
-post_translations:
-  - pll_5e4809c57cc17
 tags:
   - работа
-title: Идеальный менеджер для разработчика
-url: /ru/the-perfect-manager-for-a-software-engineer-ru/
 
 ---
 В календаре старшего разработчика Василия всплыло уведомление "Анализ производительности (performance review)". Это была ежегодная переаттестация в компании ООО _"Менеджеры знают лучше"_. Но последний год для Василия выдался особенным. Компания конкурент ООО _"Только менеджеры и знают"_ выпустила новый продукт по распознаванию нелояльных сотрудников. Хоть решение было сыроватое и больше напоминало генератор случайных ответов, но его дешевизна и простота использования сразу приглянулись пользователям.
