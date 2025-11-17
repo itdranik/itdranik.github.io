@@ -15,7 +15,7 @@ tags:
   - parser
 
 ---
-Winter is the coldest time of the year, but even it is not as cold as the interviewer's reaction to your implementation of the calculator for the postfix notation. Nevertheless, we do not have time for emotions, therefore, we're proceeding to analyze the shunting-yard algorithm mentioned in the [previous article](/en/math-expressions-postfix-notation/).
+Winter is the coldest time of the year, but even it is not as cold as the interviewer's reaction to your implementation of the calculator for the postfix notation. Nevertheless, we do not have time for emotions, therefore, we're proceeding to analyze the shunting-yard algorithm mentioned in the [previous article](/post/math-expressions-postfix-notation/).
 
 This algorithm is used for transforming the math expressions written in the infix notation to the postfix notation. We're not going to give a complete proof of this algorithm's correctness but only partial explanations to make the implementation more intuitive.
 
@@ -60,4 +60,4 @@ The closing bracket token is essentially a signal that notifies that a calculati
   - _If the token is a closing bracket, then we take the operators from the stack and save them in the resulting sequence until we meet an opening bracket. If an opening bracket is not found, then we signal about the error in the expression._
 - Take the saved operators from the stack and move them to the final sequence. _If there is an opening bracket among the operators, then we signal about the error in the expression_.
 
-The full implementation can be found on [GitHub](https://github.com/itdranik/coding-interview/) (the coding-interview project). This will finish the review of the shunting-yard algorithm, and without wasting time, we're moving on to the tokenization algorithm described in the [next post](/en/math-expressions-tokenization/).
+The full implementation can be found on [GitHub](https://github.com/itdranik/coding-interview/) (the coding-interview project). This will finish the review of the shunting-yard algorithm, and without wasting time, we're moving on to the tokenization algorithm described in the [next post](/post/math-expressions-tokenization/).

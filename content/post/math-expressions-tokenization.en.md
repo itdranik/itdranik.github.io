@@ -16,7 +16,7 @@ tags:
 ---
 The science is constantly evolving, the technology is rapidly breaking into our lives, new tools and opportunities are appearing, the only one thing that is permanent is the gloomy expression of the face of your interviewer. And since we've figured out how to read the emotions of the interviewer, then we still have problems with reading mathematical expressions. Therefore, in this post, we will analyze the simplest topic in the context of this task - splitting a source string into separate tokens.
 
-As has been mentioned in the previous posts about the [postfix notation](/en/math-expressions-postfix-notation/) and [shunting-yard algorithm](/en/math-expressions-shunting-yard-algorithm/). We have the following types of tokens:
+As has been mentioned in the previous posts about the [postfix notation](/post/math-expressions-postfix-notation/) and [shunting-yard algorithm](/post/math-expressions-shunting-yard-algorithm/). We have the following types of tokens:
 
 1. Arithmetic signs: `+, -, *, /`;
 1. Round brackets `(, )`;

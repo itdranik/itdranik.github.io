@@ -122,4 +122,4 @@ public (Line<double> line, int PointsCount) FindLineFast(
 }
 ```
 
-That's all. I need to say goodbye. And I'd like to ask you, dear reader, to familiarize yourself also with the other reviews of [coding-interview problems](/en/categories/coding-interview/). See you soon!
+That's all. I need to say goodbye. And I'd like to ask you, dear reader, to familiarize yourself also with the other reviews of [coding-interview problems](/categories/coding-interview/). See you soon!
