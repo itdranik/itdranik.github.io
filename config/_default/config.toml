@@ -1,4 +1,4 @@
-baseURL = "https://itdranik.github.io/"
+baseURL = "http://itdranik.com/"
 theme = "stack"
 title = "IT Dranik"
 copyright = "Yauheni Shybeka"
