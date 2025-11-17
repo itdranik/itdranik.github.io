@@ -1,0 +1,8 @@
+baseURL = "https://itdranik.github.io/"
+theme = "stack"
+title = "IT Dranik"
+copyright = "Yauheni Shybeka"
+DefaultContentLanguage = "en"
+
+[pagination]
+pagerSize = 5

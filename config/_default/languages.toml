@@ -1,0 +1,26 @@
+[en]
+languageName = "English"
+languageCode = "en-US"
+weight = 1
+title = "IT Dranik"
+
+[en.params.sidebar]
+subtitle = "Software Engineering Recipes"
+
+[be]
+languageName = "Беларуская"
+languageCode = "be"
+weight = 2
+title = "ІТ Дранік"
+
+[be.params.sidebar]
+subtitle = "Рэцэпты праграмнай інжынерыі"
+
+[ru]
+languageName = "Русский"
+languageCode = "ru"
+weight = 3
+title = "IT Драник"
+
+[ru.params.sidebar]
+subtitle = "Рецепты программной инженерии"
