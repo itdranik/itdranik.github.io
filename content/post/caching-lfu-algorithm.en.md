@@ -17,7 +17,7 @@ Hello, dear reader!
 
 Today's post I would like to start with a standard question at the interview: "What achievement are you most proud of at work?" This question may surprise or even offend because it is not enough today to just perform your duties well, you should be proud of it. But don't let the interviewer take you by surprise. If the room is enough spacious, then it is even better to get out of the chair, your one-man show should light a fire in the interviewer's eyes. Have you recently wrapped some method to `try / catch`? Do not be shy - you have already warned the company against an exceptional situation! Did you fix another bug a month ago? It was not just a fix, it was saving the company from potential bankruptcy! And here the main thing is not to overdo, because the interviewer most likely also visits interviews quite often, and more than once has already "saved the company from bankruptcy". And it’s better, of course, to prepare for this question in advance.
 
-But this is a standard question. And we will return to a non-standard one. In the [previous post](/en/caching-lru-algorithm-en/), we have already got acquainted with caching and the LRU algorithm of element eviction. I propose to consider the following example:
+But this is a standard question. And we will return to a non-standard one. In the [previous post](/en/caching-lru-algorithm/), we have already got acquainted with caching and the LRU algorithm of element eviction. I propose to consider the following example:
 
 In the console, we will see `"Element 'x' was not found"`. Thus, the `x` element will be forced out of the cache, to which there were 100 times more accesses, but the LRU strategy won't take this into account. Although this example is quite far-fetched, it illustrates well the limitations of the LRU strategy. In this post, we will consider a new strategy that takes into account the frequency of calls to elements. Let's go!
 
@@ -77,4 +77,4 @@ The methods for adding an element (note that the implementation of the main `Ad
 
 And the method of obtaining an element (the implementation of the `TryGet` method almost has not changed):
 
-This completes the implementation of LFU caching. I need to say goodbye. And I'd like to ask you, dear reader, to familiarize yourself also with the other reviews of [coding-interview problems](/en/topics/coding-interview-en/). See you soon!
+This completes the implementation of LFU caching. I need to say goodbye. And I'd like to ask you, dear reader, to familiarize yourself also with the other reviews of [coding-interview problems](/en/categories/coding-interview/). See you soon!

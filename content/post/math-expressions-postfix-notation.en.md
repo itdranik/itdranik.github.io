@@ -47,4 +47,4 @@ If the token is an operator, then we get the necessary number of operands from t
 
 It remains only to add the returning of a result, i.e. the only left element in the stack. If after the processing of all the tokens there is more than one element in the stack, this says about the presence of a mismatch between operators and operands. If there are no elements in the stack, then this means that an empty sequence has been fed to the input.
 
-At this, I need to say goodbye while in the [next post](/en/math-expressions-shunting-yard-algorithm-en/) we will analyze the implementation of the shunting-yard algorithm.
+At this, I need to say goodbye while in the [next post](/en/math-expressions-shunting-yard-algorithm/) we will analyze the implementation of the shunting-yard algorithm.
