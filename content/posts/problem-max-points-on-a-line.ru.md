@@ -5,7 +5,7 @@ _thumbnail_id: "1734"
 _wpas_done_all: "1"
 author: yauheni.shybeka
 topics:
-  - coding-interview-ru
+  - coding-interview
 cover:
   alt: max-points-on-a-line-feature-image
   image: /wp-content/uploads/2020/07/max-points-on-a-line-feature-image.jpg
@@ -30,7 +30,7 @@ url: /ru/problem-max-points-on-a-line-ru/
 
 **Постановка задачи.** Пусть есть множество точек на плоскости. Необходимо найти прямую, проходящую через наибольшее количество точек.
 
-Полную реализацию на C# можно посмотреть на [GitHub](https://github.com/itdranik/coding-interview/) проекта coding-interview-en.
+Полную реализацию на C# можно посмотреть на [GitHub](https://github.com/itdranik/coding-interview/) проекта coding-interview.
 
 Поскольку прямых на плоскости бесконечное множество, то и поиск ответа может занять вечность, а твой интервьюер очень занятой человек, ему ещё участвовать в командном митинге о выборе имени и цвета кнопки. Поэтому попробуем ускориться и оптимизировать подход.
 
@@ -134,4 +134,4 @@ public (Line<double> line, int PointsCount) FindLineFast(
 }
 ```
 
-На этом всё, а тебе, дорогой читатель, предлагаю ознакомиться с [другими разборами задач](/ru/topics/coding-interview-en-ru/), которые могут попадаться на технических собеседованиях. До скорых встреч!
+На этом всё, а тебе, дорогой читатель, предлагаю ознакомиться с [другими разборами задач](/ru/topics/coding-interview-ru/), которые могут попадаться на технических собеседованиях. До скорых встреч!

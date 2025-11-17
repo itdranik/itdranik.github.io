@@ -5,7 +5,7 @@ _thumbnail_id: "1733"
 _wpas_done_all: "1"
 author: yauheni.shybeka
 topics:
-  - coding-interview-en
+  - coding-interview
 cover:
   alt: caching-feature-image
   image: /wp-content/uploads/2020/03/caching-feature-image.png
@@ -35,7 +35,7 @@ In the console, we will see `"Element 'x' was not found"`. Thus, the `x` element
 
 **LFU (least frequently used)** is the strategy of discarding an element that has been least used. This element is the element that has been accessed by a key (methods of adding and receiving values) the least number of times. If there are several such elements, then the element that has not been accessed the longest is discarded.
 
-The complete implementation of LFU cache, as usual, can be found on the [GitHub](https://github.com/itdranik/coding-interview/) coding-interview-en project.
+The complete implementation of LFU cache, as usual, can be found on the [GitHub](https://github.com/itdranik/coding-interview/) coding-interview project.
 
 And we're returning back to the implementation. Let's start with the simplest option. We will implement a wrapper around an associative array without an eviction strategy:
 
@@ -89,4 +89,4 @@ The methods for adding an element (note that the implementation of the main `Ad
 
 And the method of obtaining an element (the implementation of the `TryGet` method almost has not changed):
 
-This completes the implementation of LFU caching. I need to say goodbye. And I'd like to ask you, dear reader, to familiarize yourself also with the other reviews of [coding-interview problems](/en/topics/coding-interview-en-en/). See you soon!
+This completes the implementation of LFU caching. I need to say goodbye. And I'd like to ask you, dear reader, to familiarize yourself also with the other reviews of [coding-interview problems](/en/topics/coding-interview-en/). See you soon!

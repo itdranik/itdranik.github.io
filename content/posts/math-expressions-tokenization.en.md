@@ -6,7 +6,7 @@ _wp_old_date: "2020-03-01"
 _wpas_done_all: "1"
 author: yauheni.shybeka
 topics:
-  - coding-interview-en
+  - coding-interview
 cover:
   alt: math-expressions-feature-image
   image: /wp-content/uploads/2020/02/math-expressions-feature-image-1.jpg
@@ -59,4 +59,4 @@ The last thing we need to add is a processor for operators. As in our problem st
   - Otherwise, add the character to the numbers storage.
 - If the storage contains characters then convert the characters to a number and add the number to the resulting sequence.
 
-As always, the full implementation can be found on the [GitHub](https://github.com/itdranik/coding-interview/) of the coding-interview-en project, while with the post we are finishing the topic of parsing mathematical expressions. I hope that everything has been informative and interesting. See you!
+As always, the full implementation can be found on the [GitHub](https://github.com/itdranik/coding-interview/) of the coding-interview project, while with the post we are finishing the topic of parsing mathematical expressions. I hope that everything has been informative and interesting. See you!

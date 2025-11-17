@@ -62,13 +62,13 @@ languages:
           url: /en/about/
           weight: 1
         - name: Coding Interview
-          url: /en/topics/coding-interview-en/
+          url: /en/topics/coding-interview/
           weight: 10
         - name: Stories
-          url: /en/topics/stories-en/
+          url: /en/topics/stories/
           weight: 11
         - name: Development
-          url: /en/topics/development-en/
+          url: /en/topics/development/
           weight: 12
   be:
     languageName: "Беларуская"
@@ -83,13 +83,13 @@ languages:
           url: /be/about/
           weight: 1
         - name: Тэхнічнае сумоўе
-          url: /be/topics/coding-interview-be/
+          url: /be/topics/coding-interview/
           weight: 10
         - name: Апавяданні
-          url: /be/topics/stories-be/
+          url: /be/topics/stories/
           weight: 11
         - name: Распрацоўка
-          url: /be/topics/development-be/
+          url: /be/topics/development/
           weight: 12
   ru:
     languageName: "Русский"
@@ -104,11 +104,11 @@ languages:
           url: /ru/about/
           weight: 1
         - name: Техническое собеседование
-          url: /ru/topics/coding-interview-ru/
+          url: /ru/topics/coding-interview/
           weight: 10
         - name: Рассказы
-          url: /ru/topics/stories-ru/
+          url: /ru/topics/stories/
           weight: 11
         - name: Разработка
-          url: /ru/topics/development-ru/
+          url: /ru/topics/development/
           weight: 12

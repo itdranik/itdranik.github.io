@@ -7,7 +7,7 @@ _wp_old_slug: '%d1%80%d0%b0%d0%b7%d0%b1%d0%be%d1%80-%d0%bc%d0%b0%d1%82%d0%b5%d0%
 _wpas_done_all: "1"
 author: yauheni.shybeka
 topics:
-  - coding-interview-ru
+  - coding-interview
 cover:
   alt: math-expressions-feature-image
   image: /wp-content/uploads/2020/02/math-expressions-feature-image-1.jpg
@@ -70,4 +70,4 @@ url: /ru/math-expressions-shunting-yard-algorithm-ru/
   - _Если токен является закрывающайся скобкой, то достаем операторы из стека операторов и сохраняем в результирующую последовательность, пока не встретим открывающуюся скобку. Если открывающаяся скобка не была обнаружена, то сигнализируем об ошибке в выражении._
 - Достаём сохраненные операторы из стека операторов и добавляем их в результирующее выражение. _Если среди операторов есть открывающаяся скобка, то сигнализируем об ошибке в выражении._
 
-Полную реализацию можно посмотреть на [GitHub](https://github.com/itdranik/coding-interview/) проекта coding-interview-en. На этом будем заканчивать разбор алгоритма сортировочной станции, и, не теряя времени, переходим к алгоритму токенизации, описанному в [следующем посте](/ru/math-expressions-tokenization-ru/).
+Полную реализацию можно посмотреть на [GitHub](https://github.com/itdranik/coding-interview/) проекта coding-interview. На этом будем заканчивать разбор алгоритма сортировочной станции, и, не теряя времени, переходим к алгоритму токенизации, описанному в [следующем посте](/ru/math-expressions-tokenization-ru/).

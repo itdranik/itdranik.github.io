@@ -5,7 +5,7 @@ _thumbnail_id: "1732"
 _wpas_done_all: "1"
 author: yauheni.shybeka
 topics:
-  - development-be
+  - development
 cover:
   alt: continuous-integration-feature-image
   image: /wp-content/uploads/2020/03/continuous-integration-feature-image.png
@@ -28,7 +28,7 @@ url: /be/continuous-integration-github-actions-be/
 
 Напэўна ў жыцці кожнага з нас ёсць рэчы, пра якія сорамна ўспамінаць, не тое, што расказваць. І ўсё ж такі я вымушаны прызнацца: да нядаўняга часу [codi](https://github.com/itdranik/coding-interview/) [n](https://github.com/itdranik/coding-interview/) [g-interview рэпазітар](https://github.com/itdranik/coding-interview/) не выкарыстоўваў магчымасці бесперапыннай інтэграцыі. "Ганьба!" \- пракрычаць адні. "Ды каму яна ўвогуле патрэбна ?!" \- запярэчаць іншыя.
 
-Са свайго боку я прапаную разам разабрацца, навошта ж распрацоўнікі ўсё часцей выкарыстоўваюць сучасныя інструменты бесперапыннай інтэграцыі, а не распальваюць агонь трэннем двух палачак, і на прыкладзе [GitHub Actions](https://github.com/features/actions) дадаць магчымасць бесперапыннай інтэграцыі ў coding-interview-en рэпазітар.
+Са свайго боку я прапаную разам разабрацца, навошта ж распрацоўнікі ўсё часцей выкарыстоўваюць сучасныя інструменты бесперапыннай інтэграцыі, а не распальваюць агонь трэннем двух палачак, і на прыкладзе [GitHub Actions](https://github.com/features/actions) дадаць магчымасць бесперапыннай інтэграцыі ў coding-interview рэпазітар.
 
 Дык што ж з сябе ўяўляе бесперапынная інтэграцыя?
 

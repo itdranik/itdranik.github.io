@@ -5,7 +5,7 @@ _thumbnail_id: "1733"
 _wpas_done_all: "1"
 author: yauheni.shybeka
 topics:
-  - coding-interview-ru
+  - coding-interview
 cover:
   alt: caching-feature-image
   image: /wp-content/uploads/2020/03/caching-feature-image.png
@@ -42,7 +42,7 @@ url: /ru/caching-lru-algorithm-ru/
 
 **LRU (least recently used)** \- стратегия вытеснения элемента, который не использовался дольше всего. Под данным элементом понимается элемент, доступ к которому по ключу (методы добавления и получения значения) не осуществлялся дольше всего.
 
-Полную реализацию LRU кэша на C#, как всегда, можно посмотреть на [GitHub](https://github.com/itdranik/coding-interview/) проекта coding-interview-en.
+Полную реализацию LRU кэша на C#, как всегда, можно посмотреть на [GitHub](https://github.com/itdranik/coding-interview/) проекта coding-interview.
 
 Начнём с реализации самого простого варианта без стратегии вытеснения. Другими словами добавим обёртку вокруг стандартной реализации ассоциативного массива, которая обычно присутствует в стандартной библиотеке [твоего любимого языка программирования](https://wiki.theory.org/index.php/YourLanguageSucks):
 

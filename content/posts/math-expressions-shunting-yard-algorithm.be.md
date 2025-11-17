@@ -6,7 +6,7 @@ _wp_old_date: "2020-03-07"
 _wpas_done_all: "1"
 author: yauheni.shybeka
 topics:
-  - coding-interview-be
+  - coding-interview
 cover:
   alt: math-expressions-feature-image
   image: /wp-content/uploads/2020/02/math-expressions-feature-image-1.jpg
@@ -73,4 +73,4 @@ url: /be/math-expressions-shunting-yard-algorithm-be/
   - _Калі токен з'яўляецца закрывальнай дужкай, то дастаем аператары са стэку аператараў і захоўваем у выніковую паслядоўнасць, пакуль не сустрэнем адкрываную дужку. Калі адкрывальная дужка не была знойдзена, то сігналізуем пра памылку ў выразе;_
 - Дастаем захаваныя аператары са стэку аператараў і дадаем іх у выніковы выраз. _Калі сярод аператараў ёсць адкрывальная дужка, то сігналізуем пра памылку ў выразе_.
 
-Поўную рэалізацыю можна паглядзець на [GitHub](https://github.com/itdranik/coding-interview/) праекта coding-interview-en. На гэтым будзем заканчваць разбор алгарытму сартавальнай станцыі, і, не губляючы часу, пераходзім да алгарытму такенізацыі, які апісаны ў [наступным пасце](/be/math-expressions-tokenization-be/).
+Поўную рэалізацыю можна паглядзець на [GitHub](https://github.com/itdranik/coding-interview/) праекта coding-interview. На гэтым будзем заканчваць разбор алгарытму сартавальнай станцыі, і, не губляючы часу, пераходзім да алгарытму такенізацыі, які апісаны ў [наступным пасце](/be/math-expressions-tokenization-be/).

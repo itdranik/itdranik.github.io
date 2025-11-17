@@ -7,7 +7,7 @@ _wp_old_slug: '%d1%80%d0%b0%d0%b7%d0%b1%d0%be%d1%80-%d0%bc%d0%b0%d1%82%d0%b5%d0%
 _wpas_done_all: "1"
 author: yauheni.shybeka
 topics:
-  - coding-interview-ru
+  - coding-interview
 cover:
   alt: math-expressions-feature-image
   image: /wp-content/uploads/2020/02/math-expressions-feature-image-1.jpg
@@ -60,4 +60,4 @@ url: /ru/math-expressions-tokenization-ru/
   - Иначе используем символ для формирования числа в отдельном хранилище;
 - Если в хранилище остались символы, то конвертируем символы в число и добавляем в список результирующих токенов.
 
-Как всегда полную реализацию можно посмотреть на [GitHub](https://github.com/itdranik/coding-interview/) проекта coding-interview-en, а этим постом будем заканчивать тему разбора математических выражений. Надеюсь, что всё было познавательно и интересно. До встречи!
+Как всегда полную реализацию можно посмотреть на [GitHub](https://github.com/itdranik/coding-interview/) проекта coding-interview, а этим постом будем заканчивать тему разбора математических выражений. Надеюсь, что всё было познавательно и интересно. До встречи!

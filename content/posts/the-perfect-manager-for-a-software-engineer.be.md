@@ -5,7 +5,7 @@ _thumbnail_id: "2178"
 _wpas_done_all: "1"
 author: yauheni.shybeka
 topics:
-  - stories-be
+  - stories
 cover:
   alt: the-perfect-manager-for-a-software-engineer-feature-image
   image: /wp-content/uploads/2021/02/the-perfect-manager-for-a-software-engineer-feature-image.jpg

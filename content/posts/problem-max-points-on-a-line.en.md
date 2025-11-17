@@ -5,7 +5,7 @@ _thumbnail_id: "1734"
 _wpas_done_all: "1"
 author: yauheni.shybeka
 topics:
-  - coding-interview-en
+  - coding-interview
 cover:
   alt: max-points-on-a-line-feature-image
   image: /wp-content/uploads/2020/07/max-points-on-a-line-feature-image.jpg
@@ -30,7 +30,7 @@ Vasily more and more understood that he did not have enough time for the develop
 
 **Problem Statement:** Given a set of points on a plane, find the line that passes through the maximum number of points.
 
-The complete implementation in C#, as usual, can be found on the [GitHub](https://github.com/itdranik/coding-interview/) of the coding-interview-en project.
+The complete implementation in C#, as usual, can be found on the [GitHub](https://github.com/itdranik/coding-interview/) of the coding-interview project.
 
 Since there is an infinite number of lines on the plane, it can take forever to find an answer, while your interviewer is a very busy person, he is participating today in a team meeting on choosing the name and color of a button. Therefore, we will try to accelerate and optimize the approach.
 
@@ -134,4 +134,4 @@ public (Line<double> line, int PointsCount) FindLineFast(
 }
 ```
 
-That's all. I need to say goodbye. And I'd like to ask you, dear reader, to familiarize yourself also with the other reviews of [coding-interview problems](/en/topics/coding-interview-en-en/). See you soon!
+That's all. I need to say goodbye. And I'd like to ask you, dear reader, to familiarize yourself also with the other reviews of [coding-interview problems](/en/topics/coding-interview-en/). See you soon!

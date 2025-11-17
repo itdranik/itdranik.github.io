@@ -5,7 +5,7 @@ _thumbnail_id: "1732"
 _wpas_done_all: "1"
 author: yauheni.shybeka
 topics:
-  - development-ru
+  - development
 cover:
   alt: continuous-integration-feature-image
   image: /wp-content/uploads/2020/03/continuous-integration-feature-image.png
@@ -28,7 +28,7 @@ url: /ru/continuous-integration-github-actions-ru/
 
 Наверняка в жизни каждого из нас есть вещи, про которые стыдно вспомнить, не то, что рассказать. И всё же я вынужден признаться: до недавнего времени [coding-interview репозиторий](https://github.com/itdranik/coding-interview/) не использовал возможности непрерывной интеграции. "Какой позор!" \- прокричат одни. "Да кому она вообще нужна?!" \- возразят другие.
 
-Со своей стороны я предлагаю вместе разобраться, зачем же разработчики всё чаще используют современные инструменты непрерывной интеграции, а не зажигают огонь трением двух палочек, и на примере [GitHub Actions](https://github.com/features/actions) добавить возможность непрерывной интеграции в coding-interview-en репозиторий.
+Со своей стороны я предлагаю вместе разобраться, зачем же разработчики всё чаще используют современные инструменты непрерывной интеграции, а не зажигают огонь трением двух палочек, и на примере [GitHub Actions](https://github.com/features/actions) добавить возможность непрерывной интеграции в coding-interview репозиторий.
 
 Так что же из себя представляет непрерывная интеграция?
 
